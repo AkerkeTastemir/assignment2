@@ -1,5 +1,5 @@
-n,hasMajority,timeNs,comparisons,arrayAccesses,assignments
-100,false,63792,200,200,125
-1000,false,564750,2000,2000,1241
-10000,false,1919625,20000,20000,12551
-100000,false,8255250,200000,200000,125065
+Algorithm,InputSize,HasMajority,TimeNs,Comparisons,ArrayAccesses,Assignments
+BoyerMoore,100,false,63792,200,200,125
+BoyerMoore,1000,false,564750,2000,2000,1241
+BoyerMoore,10000,false,1919625,20000,20000,12551
+BoyerMoore,100000,false,8255250,200000,200000,125065
